@@ -1,0 +1,11 @@
+print("enter a number")
+num1=input()
+print(num1)
+print("enter another number")
+num2=input()
+print(num2)
+num3=num1+num2
+print(num3)
+num4=int(num1)+int(num2)
+print(type(num4))
+print(num4)
